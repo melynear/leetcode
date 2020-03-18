@@ -1,4 +1,4 @@
-package cn.lizhi.algorithm;
+package cn.lizhi.algorithm.tree;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
