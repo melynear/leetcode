@@ -1,4 +1,4 @@
-package cn.lizhi.algorithm.tree;
+package cn.lizhi.datastructure.tree;
 
 /**
  * 给定一个二叉树，其中所有的右节点要么是具有兄弟节点（拥有相同父节点的左节点）的叶节点，要么为空，

@@ -1,4 +1,4 @@
-package cn.lizhi.algorithm;
+package cn.lizhi.datastructure.stack;
 
 import java.util.Arrays;
 
